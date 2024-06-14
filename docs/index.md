@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Justin3go's Blog
+title: Nasuke's Blog
 titleTemplate: false
 markdownStyles: false
 ---
