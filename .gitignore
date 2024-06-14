@@ -130,5 +130,10 @@ dist
 .pnp.*
 
 # vitepress
-docs/.vitepress/dist
+# docs/.vitepress/dist
 cache
+
+images
+
+*
+!/docs/.vitepress/dist/*
